@@ -24,7 +24,6 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="www.linkedin.com/in/lakshitxd"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lakshit K. Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="lakshitk6666@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lakshitk6666@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](www.linkedin.com/in/lakshitxd)
+[![](https://img.shields.io/badge/Gmail-lakshitk6666@gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
