@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=lol+are+you+lost%3F)](https://git.io/typing-svg)
 
-<h2> Hey there! I'm Lakshit.</h2>
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and learning 🤓.
