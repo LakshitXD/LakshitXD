@@ -17,4 +17,4 @@
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshitxd/)](https://www.linkedin.com/in/lakshitxd/)
-[![](https://img.shields.io/badge/mail-lakshitk@duck.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
+[![Mmail Badge](https://img.shields.io/badge/-lakshitk@duck.com-mailto:lakshitk@duck.com)](mailto:lakshitk@duck.com)
